@@ -1,0 +1,4 @@
+2020-08-27 09:16:05,769 - Basic_info.Faiss_search - INFO - create a bert_embedding class, dim is 768, max_sentence_length is 32,tokenizer from ./bert_model/
+2020-08-27 09:16:05,770 - Basic_info.Faiss_search - INFO - load file_path
+2020-08-27 09:16:05,772 - Basic_info.Faiss_search - INFO - load sentence id file
+2020-08-27 09:16:05,773 - Basic_info.Faiss_search - INFO - load sentence id file
